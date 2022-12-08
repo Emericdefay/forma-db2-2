@@ -1,0 +1,8 @@
+       01  FICOPER-ENREG.                          
+          05  FM-COMPTE  PIC S9(09) COMP.          
+          05  FM-ROPER   PIC X(10).                
+          05  FM-COPER   PIC X(03).                
+          05  FM-MTOPER  PIC 9(13)V9(2) COMP-3.    
+          05  FM-CDEV    PIC X(03).                
+          05  FM-DTOPER  PIC X(10).                
+          05  FILLER     PIC X(29).                
